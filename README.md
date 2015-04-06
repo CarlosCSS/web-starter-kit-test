@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/170270/3343034/ceef6e92-f899-11e3-96b9-5d9d69d97a00.png)](https://github.com/google/web-starter-kit/releases/latest)
 
 ## Overview
@@ -73,3 +74,7 @@ Contributions, questions and comments are all welcome and encouraged. For code c
 
 Apache 2.0  
 Copyright 2014 Google Inc
+=======
+# web-starter-kit-test
+Empezando con Web Starter Kit, pruebas 
+>>>>>>> 9f378505d4e823a0cac0a8323c5e74d0e2d6b3e4
